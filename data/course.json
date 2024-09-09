@@ -4,7 +4,12 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [],
